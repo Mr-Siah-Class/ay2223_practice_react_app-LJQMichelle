@@ -9,7 +9,7 @@ class HomeScreen extends React.Component
     render()
     {
         return (
-            <div className='Main'>
+            <div id='Main'>
                 <h1>HomeScreen</h1>
             </div>
         );
