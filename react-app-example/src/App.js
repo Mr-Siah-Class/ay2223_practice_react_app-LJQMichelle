@@ -1,3 +1,4 @@
+// deployed on practicereact123.netlify.app
 import React from 'react';
 import './App.css';
 
