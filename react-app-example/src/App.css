@@ -42,7 +42,7 @@
   background-color: orangered;
 }
 
-.Main
+#Main
 {
   min-height: calc(100vh - 122px - 100px);
   padding: 50px;
